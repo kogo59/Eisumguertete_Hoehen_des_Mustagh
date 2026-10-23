@@ -1,6 +1,6 @@
 # Eisumgürtete Höhen des Mustagh
 
-<img align="right" height="200" src="https://github.com/kogo59/Gipfel_und_Gletscher_des_Nun_Kun/blob/main/images/cover.jpg">
+<img align="right" height="200" src="https://github.com/kogo59/Eisumguertete_Hoehen_des_Mustagh/blob/main/images/cover.jpg">
 
 This is a git repository of the source files for the translation to german of the book "ICE-BOUND HEIGHTS OF THE MUSTAGH"
 
