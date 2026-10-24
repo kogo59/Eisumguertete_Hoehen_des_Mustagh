@@ -58,22 +58,22 @@
 # Verzeichnis der Abbildungen
 
 - [Mount Chogo, 21.500 Fuß, und Mount Lungma, 22.568 Fuß; von den Verfassern am 12. August 1903 bestiegen.](ch001.xhtml#b000) — Frontispiz
-- [Berg bei Sonamarg, Sind-Tal.](ch003.xhtml#b005) — S. 5
-- [Mrs. Bullock Workman in einem Dandi, Indus-Tal.](ch003.xhtml#b007) — S. 7
-- [Indus-Tal bei Tolti.](ch003.xhtml#b009) — S. 9
-- [Rosenbaum zwischen Felsen.](ch003.xhtml#b011) — S. 11
-- [Oase im Indus-Tal.](ch003.xhtml#b012) — S. 12
-- [Teil der Oase von Tolti, Indus-Tal.](ch003.xhtml#b014) — S. 14
-- [Vom Wasser ausgewaschener Steilhang, Indus-Tal.](ch003.xhtml#b016)  — S. 16
-- [Paläste des Raja, Indus-Tal.](ch003.xhtml#b019)  — S. 19
-- **Haus des Raja von Tolti, Indus-Tal.** — S. 21
-- **Der Felsen von Skardo.** — S. 25
-- **Mount Koser Gunge vom Shigar-Tal aus.** — S. 29
-- **Sanddünen oberhalb von Skardo.** — S. 31
-- **Dr. W. Hunter Workman mit Shigar-Pony.** — S. 32
-- **Lager bei Mango, Shigar-Tal.** — S. 33
-- **Auf dem Gipfel des Mount Buspar, 14.974 Fuß.** — S. 35
-- **Überquerung des Braldoh-Flusses auf einem Zak.** — gegenüber S. 36
+- [Berg bei Sonamarg, Sind-Tal.](ch004.xhtml#b005) — S. 5
+- [Mrs. Bullock Workman in einem Dandi, Indus-Tal.](ch004.xhtml#b007) — S. 7
+- [Indus-Tal bei Tolti.](ch004.xhtml#b009) — S. 9
+- [Rosenbaum zwischen Felsen.](ch004.xhtml#b011) — S. 11
+- [Oase im Indus-Tal.](ch004.xhtml#b012) — S. 12
+- [Teil der Oase von Tolti, Indus-Tal.](ch004.xhtml#b014) — S. 14
+- [Vom Wasser ausgewaschener Steilhang, Indus-Tal.](ch004.xhtml#b016)  — S. 16
+- [Paläste des Raja, Indus-Tal.](ch004.xhtml#b019)  — S. 19
+- [Haus des Raja von Tolti, Indus-Tal.](ch004.xhtml#b021) — S. 21
+- [Der Felsen von Skardo.](ch005.xhtml#b025) — S. 25
+- [Mount Koser Gunge vom Shigar-Tal aus.](ch005.xhtml#b029) — S. 29
+- [Sanddünen oberhalb von Skardo.](ch005.xhtml#b031) — S. 31
+- [Dr. W. Hunter Workman mit Shigar-Pony.](ch005.xhtml#b031) — S. 32
+- [Lager bei Mango, Shigar-Tal.](ch005.xhtml#b033) — S. 33
+- [Auf dem Gipfel des Mount Buspar, 14.974 Fuß.](ch005.xhtml#b035) — S. 35
+- [Überquerung des Braldoh-Flusses auf einem Zak.](ch005.xhtml#b036) — gegenüber S. 36
 - **Unser Träger und Khansamah.** — S. 39
 - **Hirsefeld, Basha-Tal.** — S. 40
 - **Dorf Doko, Basha-Tal.** — S. 41
