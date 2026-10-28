@@ -74,29 +74,29 @@
 - [Lager bei Mango, Shigar-Tal.](ch005.xhtml#b033) — S. 33
 - [Auf dem Gipfel des Mount Buspar, 14.974 Fuß.](ch005.xhtml#b035) — S. 35
 - [Überquerung des Braldoh-Flusses auf einem Zak.](ch005.xhtml#b036) — gegenüber S. 36
-- **Unser Träger und Khansamah.** — S. 39
-- **Hirsefeld, Basha-Tal.** — S. 40
-- **Dorf Doko, Basha-Tal.** — S. 41
-- **Mount Hikmul und Ganchen, von Huldero aus gesehen.** — S. 44
-- **Kulis reichen Steine zum Pflastern der Zeltterrasse weiter.** — S. 47
-- **Schneelinienlager, 15.096 Fuß, an der Flanke des Ganchen.** — S. 49
-- **Aufstieg über die Schneefelder des Ganchen.** — S. 51
-- **Gipfel nordwestlich vom Schneelinienlager.** — S. 54
-- **Obere Schneefelder gegen Ganchen.** — S. 55
-- **Gipfel des Mount Hikmul in Wolken.** — S. 59
-- **Mount Rachel, 17.600 Fuß; Telephotographie aus Arandu, zwölf Meilen entfernt.** — S. 63
-- **Auf dem Gipfel des Mount Rachel, 17.600 Fuß, Basha-Tal.** — S. 65
-- **Lambardar von Arandu mit seiner Frau.** — S. 67
-- **Frauen von Arandu.** — S. 71
-- **Frauen von Arandu, Rückansicht.** — S. 73
-- **Burtsa-Lager, 11.499 Fuß, Chogo Lungma.** — S. 75
-- **Aufstieg über den zweiten Abschnitt der Chogo Lungma.** — S. 77
-- **Indus-Nagar-Wasserscheiden-Gipfel Nr. 4, 22.810 Fuß, mit Cathedral Peak und Riffelhorn.** — S. 81
-- **Riffelhorn am Zusammenfluß der Haramosh- und Chogo-Lungma-Gletscher.** — gegenüber S. 82
-- **Mittagsrast, Riffel-Lager.** — S. 84
-- **Indus-Nagar-Wasserscheiden-Gipfel Nr. 4; Telephotographie.** — S. 85
-- **Gipfel des Riffelhorns, 15.337 Fuß, mit Steinmann.** — S. 87
-- **Abschnitt eines Eis-Sees im Mittelpunkt der Chogo Lungma.** — S. 91
+- [Unser Bearer und Khansamah.](ch006.xhtml#b039) — S. 39
+- [Hirsefeld, Basha-Tal.](ch006.xhtml#b040) — S. 40
+- [Dorf Doko, Basha-Tal.](ch006.xhtml#b041) — S. 41
+- [Mount Hikmul und Ganchen, von Huldero aus gesehen.](ch006.xhtml#b044) — S. 44
+- [Kulis reichen Steine zum Pflastern der Zeltterrasse weiter.](ch006.xhtml#b047) — S. 47
+- [Schneegrenzenlager, 15.096 Fuß, an der Flanke des Ganchen.](ch006.xhtml#b049) — S. 49
+- [Aufstieg über die Schneefelder des Ganchen.](ch006.xhtml#b051) — S. 51
+- [Gipfel nordwestlich vom Schneegrenzenlager.](ch006.xhtml#b054) — S. 54
+- [Obere Schneefelder in Richtung Ganchen.](ch006.xhtml#b055) — S. 55
+- [Gipfel des Mount Hikmul in Wolken.](ch006.xhtml#b059)  — S. 59
+- [Mount Rachel, 17.600 Fuß; Telephotographie aus Arandu, zwölf Meilen entfernt.](ch006.xhtml#b063) — S. 63
+- [Auf dem Gipfel des Mount Rachel, 17.600 Fuß, Basha-Tal.](ch006.xhtml#b065) — S. 65
+- [Lambardar von Arandu mit seiner Frau.](ch007.xhtml#b067) — S. 67
+- [Frauen von Arandu.](ch007.xhtml#b071) — S. 71
+- [Frauen von Arandu, Rückansicht.](ch007.xhtml#b073) — S. 73
+- [Burtsa-Lager, 11.500 Fuß, Chogo Lungma.](ch007.xhtml#b075) — S. 75
+- [Aufstieg über den zweiten Abschnitt der Chogo Lungma.](ch007.xhtml#b077)  — S. 77
+- [Indus Nagar Watershed Peak Nr. 4, 22.810 Fuß, mit Cathedral Peak und Riffelhorn.](ch007.xhtml#b081) — S. 81
+- [Riffelhorn an der Vereinigung des Haramosh- und des Chogo-Lungma-Gletschers.](ch007.xhtml#b082) — gegenüber S. 82
+- [Mittagsrast, Riffel-Lager.](ch007.xhtml#b084) — S. 84
+- [Indus-Nagar-Watershed Peak Nr. 4; Telephotographie.](ch007.xhtml#b085) — S. 85
+- [Gipfel des Riffelhorns, 15.337 Fuß, mit Steinmann.](ch007.xhtml#b087) — S. 87
+- [Abschnitt eines Eis-Sees im Mittelpunkt des Chogo Lungma.](ch007.xhtml#b091) — S. 91
 - **Indus-Nagar-Wasserscheiden-Gipfel Nr. 4, 22.810 Fuß, Nordwand.** — S. 95
 - **Karawane zwischen Séracs auf der Chogo Lungma.** — gegenüber S. 96
 - **Gefurchter Gipfel mit überhängender Schneekante; Telephotographie.** — S. 99
