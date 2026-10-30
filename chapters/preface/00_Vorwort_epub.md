@@ -97,17 +97,17 @@
 - [Indus-Nagar-Watershed Peak Nr. 4; Telephotographie.](ch007.xhtml#b085) — S. 85
 - [Gipfel des Riffelhorns, 15.337 Fuß, mit Steinmann.](ch007.xhtml#b087) — S. 87
 - [Abschnitt eines Eis-Sees im Mittelpunkt des Chogo Lungma.](ch007.xhtml#b091) — S. 91
-- **Indus-Nagar-Wasserscheiden-Gipfel Nr. 4, 22.810 Fuß, Nordwand.** — S. 95
-- **Karawane zwischen Séracs auf der Chogo Lungma.** — gegenüber S. 96
-- **Gefurchter Gipfel mit überhängender Schneekante; Telephotographie.** — S. 99
-- **Steinmann oberhalb des Sérac-Lagers.** — S. 101
-- **Auf dem Gipfel des Cornice Peak, 17.814 Fuß.** — S. 103
-- **Gletscherlager, 17.483 Fuß, Chogo Lungma.** — S. 107
-- **Drei Meilen vom Chogo-Col am oberen Ende der Chogo Lungma.** — S. 109
-- **Nebel-Lager, 18.994 Fuß, am oberen Ende der Chogo Lungma.** — S. 113
-- **Sérac-Lager, 15.096 Fuß, nach einem sechzigstündigen Sturm.** — S. 115
-- **Aufklaren des Sturmes am Sérac-Lager.** — S. 117
-- **Haramosh-Gletscher vom Riffel-Lager bis zum Mount Haramosh am oberen Ende; Länge elf Meilen.** — S. 119
+- [Indus Nagar Watershed Peak Nr. 4, 22.810 Fuß, Nordwand.](ch008.xhtml#b095) — S. 95
+- [Karawane zwischen Séracs des Chogo Lungma.](ch008.xhtml#b096) — gegenüber S. 96
+- [Gefurchter Gipfel mit überhängender Schneekante; Telephotographie.](ch008.xhtml#b099) — S. 99
+- [Steinmann oberhalb des Sérac-Lagers.](ch008.xhtml#b101) — S. 101
+- [Auf dem Gipfel des Cornice Peak, 17.814 Fuß.](ch008.xhtml#b103) — S. 103
+- [Gletscherlager, 17.483 Fuß, Chogo Lungma.](ch008.xhtml#b107) — S. 107
+- [Drei Meilen vom Chogo-Col am oberen Ende des Chogo Lungma.](ch008.xhtml#b109) — S. 109
+- [ Foggy Camp, 18.994 Fuß, am oberen Ende des Chogo Lungma.](ch008.xhtml#b113) — S. 113
+- [Sérac-Lager, 15.096 Fuß, nach einem sechzigstündigen Sturm.](ch008.xhtml#b115) — S. 115
+- [Aufklaren des Sturmes am Sérac-Lager.](ch008.xhtml#b117) — S. 117
+- [Haramosh-Gletscher vom Riffel-Lager bis zum Mount Haramosh am oberen Ende; Länge elf Meilen.](ch009.xhtml#b119) — S. 119
 - **Auf der Wand eines Séracs.** — S. 122
 - **Zweiter Haramosh-Gipfel, 21.930 Fuß, nahe dem oberen Ende des Haramosh-Gletschers.** — S. 123
 - **Über 20.000 Fuß hohe Wand am Zusammenfluß der Haramosh- und Chogo-Lungma-Gletscher.** — S. 127

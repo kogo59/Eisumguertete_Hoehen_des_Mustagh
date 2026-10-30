@@ -228,7 +228,7 @@ das Ende eines Ausläufers, der von einer Gruppe mächtiger, gezackter, chaotisc
 dem Gletscher aufragt. Der höchste von ihnen ist eine schöne Schneenadel, die
 neuntausend Fuß über dem Gletscher emporragt, vom Indian Survey aus der Ferne
 mit 22.810 Fuß bestimmt und in seinen Aufzeichnungen als *Indus Nagar Watershed
-Peak Nr. 4* bezeichnet. Dieser Gipfel gehört zu den markantesten Gestalten des
+Peak Nr. 4*<sup>[^400]</sup> bezeichnet. Dieser Gipfel gehört zu den markantesten Gestalten des
 Chogo Lungma und bildet, mit einer einzigen Ausnahme, dessen auffälligsten
 Orientierungspunkt; er ist von den meisten Stellen der oberen Hälfte und der
 oberen Seitenarme des Gletschers sowie von weit entfernten Höhen sichtbar.
@@ -415,3 +415,6 @@ Gipfel errichteten wir einen weithin sichtbaren Steinmann, in dem Aufzeichnungen
 hinterlegt wurden.
 
 :::
+
+
+[^400]: [[Laila Peak (Rakaposhi-Haramosh-Berge)](https://de.wikipedia.org/wiki/Laila_Peak_(Rakaposhi-Haramosh-Berge))]{.footnote }
