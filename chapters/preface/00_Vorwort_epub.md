@@ -108,12 +108,12 @@
 - [Sérac-Lager, 15.096 Fuß, nach einem sechzigstündigen Sturm.](ch008.xhtml#b115) — S. 115
 - [Aufklaren des Sturmes am Sérac-Lager.](ch008.xhtml#b117) — S. 117
 - [Haramosh-Gletscher vom Riffel-Lager bis zum Mount Haramosh am oberen Ende; Länge elf Meilen.](ch009.xhtml#b119) — S. 119
-- **Auf der Wand eines Séracs.** — S. 122
-- **Zweiter Haramosh-Gipfel, 21.930 Fuß, nahe dem oberen Ende des Haramosh-Gletschers.** — S. 123
-- **Über 20.000 Fuß hohe Wand am Zusammenfluß der Haramosh- und Chogo-Lungma-Gletscher.** — S. 127
-- **Nebenarm des Haramosh-Gletschers.** — S. 130
-- **Mount Haramosh, Nordwand, 24.270 Fuß, und die oberen fünf Meilen des Haramosh-Gletschers; Telephotographie.** — S. 131
-- **Auf dem Haramosh La, 17.412 Fuß.** — S. 134
+- [An einer Sérac-Wand entlang.](ch010.xhtml#b122) — S. 122
+- [Zweiter Haramosh-Gipfel, 21.930 Fuß, nahe dem oberen Ende des Haramosh-Gletschers.](ch009.xhtml#b122)  — S. 123
+- [Über 20.000 Fuß hohe Wand am Zusammenfluß der Haramosh- und Chogo-Lungma-Gletscher.](ch009.xhtml#b127) — S. 127
+- [Nebenarm des Haramosh-Gletschers.](ch010.xhtml#b130) — S. 130
+- [Mount Haramosh, Nordwand, 24.270 Fuß, und die oberen fünf Meilen des Haramosh-Gletschers; Telephotographie.](ch009.xhtml#b131) — S. 131
+- [Auf dem Haramosh La, 17.412 Fuß.](ch009.xhtml#b134) — S. 134
 - **Eisbruch, in dem der Basin-Gletscher zur Chogo Lungma hinabzieht.** — S. 139
 - **Blick vom Ibex-Lager südwärts über das Hochgebirge.** — S. 143
 - **Der Bhayakara Col, 19.260 Fuß.** — S. 145

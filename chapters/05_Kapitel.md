@@ -465,4 +465,4 @@ Himalaya nur eine Bagatelle, und selbst die großartigste Aussicht in den Alpen
 an einem heiteren Tage ist nichts gegen das strahlende, sonnendurchglänzte
 Schauspiel in den oberen Regionen des Chogo Lungma.
 
-**Bildunterschrift:** *Haramosh-Gletscher vom Riffel Camp bis zum Mount Haramosh, 24.270 Fuß; im oberen Abschnitt elf Meilen lang.*
+:::
