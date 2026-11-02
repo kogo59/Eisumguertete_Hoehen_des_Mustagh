@@ -114,20 +114,20 @@
 - [Nebenarm des Haramosh-Gletschers.](ch010.xhtml#b130) — S. 130
 - [Mount Haramosh, Nordwand, 24.270 Fuß, und die oberen fünf Meilen des Haramosh-Gletschers; Telephotographie.](ch009.xhtml#b131) — S. 131
 - [Auf dem Haramosh La, 17.412 Fuß.](ch009.xhtml#b134) — S. 134
-- **Eisbruch, in dem der Basin-Gletscher zur Chogo Lungma hinabzieht.** — S. 139
-- **Blick vom Ibex-Lager südwärts über das Hochgebirge.** — S. 143
-- **Der Bhayakara Col, 19.260 Fuß.** — S. 145
-- **Der Bhayakara Col von der Flanke des Mount Chogo, mit Aufstiegsroute.** — S. 147
-- **Gipfel über dem Basin-Gletscher, an den Bhayakara Col anschließend.** — gegenüber S. 148
-- **Vereinigung des Moraine-Gletschers mit der Chogo Lungma.** — S. 150
-- **Moraine-Gletscher, oberes Ende.** — S. 151
-- **Hügel-Lager, 15.204 Fuß, Moraine-Gletscher.** — S. 155
-- **Nordöstliches oberes Ende des Moraine-Gletschers.** — S. 157
-- **Eisbruch am nordöstlichen oberen Ende des Moraine-Gletschers.** — S. 158
-- **Eisgendarme, Moraine-Gletscher.** — S. 159
-- **Senkrechte Spalten auf dem Eisbruch, Moraine-Gletscher.** — S. 161
-- **Jhila-Brücke über den Indus bei Rondu.** — S. 163
-- **Trongo Pir, etwa 16.000 Fuß.** — S. 166
+- [Eisbruch, über den der Basin-Gletscher zum Chogo Lungma hinabzieht.](ch010.xhtml#b139) — S. 139
+- [Blick vom Ibex-Lager südwärts über das Hochgebirge.](ch010.xhtml#b143) — S. 143
+- [Der Bhayakara Col, 19.260 Fuß.](ch010.xhtml#b145) — S. 145
+- [Der Bhayakara Col von der Flanke des Mount Chogo, mit Aufstiegsroute.](ch010.xhtml#b147) — S. 147
+- [Gipfel über dem Basin-Gletscher, an den Bhayakara Col anschließend.](ch010.xhtml#b148) — gegenüber S. 148
+- [Vereinigung des Moraine-Gletschers mit der Chogo Lungma.](ch010.xhtml#b150) — S. 150
+- [Moraine-Gletscher, oberes Ende.](ch010.xhtml#b151) — S. 151
+- [Hummock-Camp, 15.204 Fuß, Moraine-Gletscher.](ch010.xhtml#b155) — S. 155
+- [Nordöstliches oberes Ende des Moraine-Gletschers.](ch010.xhtml#b157) — S. 157
+- [Eisbruch am nordöstlichen oberen Ende des Moraine-Gletschers.](ch010.xhtml#b158) — S. 158
+- [Eisgendarme, Moraine-Gletscher.](ch010.xhtml#b159) — S. 159
+- [Senkrechte Spalten auf dem Eisbruch, Moraine-Gletscher.](ch010.xhtml#b161) — S. 161
+- [Jhula-Brücke über den Indus bei Rondu.](ch010.xhtml#b163)  — S. 163
+- [Trongo Pir, etwa 16.000 Fuß.](ch010.xhtml#b166) — S. 166
 - **Zunge des Tippur-Gletschers, die über eine hohe Moräne hinausragt.** — S. 169
 - **Erster Abschnitt der Chogo Lungma, eine Meile oberhalb ihrer Zunge.** — S. 172
 - **Zunge der Chogo Lungma mit bebauten Feldern.** — S. 175
