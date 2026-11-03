@@ -128,17 +128,17 @@
 - [Senkrechte Spalten auf dem Eisbruch, Moraine-Gletscher.](ch010.xhtml#b161) — S. 161
 - [Jhula-Brücke über den Indus bei Rondu.](ch010.xhtml#b163)  — S. 163
 - [Trongo Pir, etwa 16.000 Fuß.](ch010.xhtml#b166) — S. 166
-- **Zunge des Tippur-Gletschers, die über eine hohe Moräne hinausragt.** — S. 169
-- **Erster Abschnitt der Chogo Lungma, eine Meile oberhalb ihrer Zunge.** — S. 172
-- **Zunge der Chogo Lungma mit bebauten Feldern.** — S. 175
-- **Primäre und sekundäre Seitenmoränen.** — S. 177
-- **Schwarzer Eishang an der Seite der Chogo Lungma, Moräne ablagernd.** — S. 178
-- **Zweiter Abschnitt der Chogo Lungma mit Pyramid Peak.** — S. 180
-- **Vereinigung des zweiten und dritten Abschnitts der Chogo Lungma.** — S. 183
-- **Sérac nahe dem Riffel-Vorsprung.** — S. 186
-- **Vogelschau auf Riffel-Lager, Séracs und Eissee vom Riffelhorn.** — S. 187
-- **Photogravüre-Porträt von Mrs. F. Bullock Workman.** — gegenüber S. 190
-- **Photogravüre-Porträt von Dr. W. Hunter Workman.** — gegenüber S. 192
+- [Zunge des Tippur-Gletschers, über einer hohen Moräne aufragend.](ch011.xhtml#b169)  — S. 169
+- [Erster Abschnitt des Chogo Lungma, eine Meile oberhalb ihrer Zunge.](ch011.xhtml#b172) — S. 172
+- [Zunge des Chogo Lungma mit bebauten Feldern.](ch011.xhtml#b175) — S. 175
+- [Primäre und sekundäre Seitenmoränen.](ch011.xhtml#b177) — S. 177
+- [Schwarzer Eishang an der Seite der Chogo Lungma, Moräne ablagernd.](ch011.xhtml#b178) — S. 178
+- [Zweiter Abschnitt der Chogo Lungma mit Pyramid Peak.](ch011.xhtml#b180) — S. 180
+- [Vereinigung des zweiten und dritten Abschnitts des Chogo Lungma.](ch011.xhtml#b183) — S. 183
+- [Sérac nahe dem Riffel-Vorsprung.](ch011.xhtml#b186)  — S. 186
+- [Vogelschau auf das Riffel-Camp, Séracs und Eissee vom Riffelhorn.](ch011.xhtml#b187)  — S. 187
+- [Photogravüre-Porträt von Mrs. F. Bullock Workman.](ch011.xhtml#b190) — gegenüber S. 190
+- [Photogravüre-Porträt von Dr. W. Hunter Workman.](ch011.xhtml#b192) — gegenüber S. 192
 - **Unsere Gesellschaft verläßt Srinagar, 1903.** — S. 196
 - **Raja von Skardo, drei Brüder und Pfeifenträger.** — S. 197
 - **Daumenabdrücke als Unterschriften der Kulis unter dem Vertrag.** — S. 201

@@ -74,7 +74,7 @@ unterdessen verbrachten wir die Zeit mit hypsometrischen, aneroiden und
 thermometrischen Messungen.
 
 :::: { .wrap-100 .caption .align-center  }
-![Eisbruch, über den der Basin-Gletscher zum Chogo Lungma hinabzieht.](Mustagh_139.jpg "Eisbruch, über den der Basin-Gletscher zum Chogo Lungma hinabzieht"){#b139}
+![Eisbruch, über den der Basin-Gletscher zum Chogo Lungma hinabzieht.](Mustagh_139.jpg "Eisbruch, über den der Basin-Gletscher zum Chogo Lungma hinabzieht."){#b139}
 ::::
 
 Um zwei Uhr traf die Karawane ein, und das Lager wurde sofort errichtet. Wir
