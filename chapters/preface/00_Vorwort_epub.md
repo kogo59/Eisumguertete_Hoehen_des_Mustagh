@@ -139,28 +139,28 @@
 - [Vogelschau auf das Riffel-Camp, Séracs und Eissee vom Riffelhorn.](ch011.xhtml#b187)  — S. 187
 - [Photogravüre-Porträt von Mrs. F. Bullock Workman.](ch011.xhtml#b190) — gegenüber S. 190
 - [Photogravüre-Porträt von Dr. W. Hunter Workman.](ch011.xhtml#b192) — gegenüber S. 192
-- **Unsere Gesellschaft verläßt Srinagar, 1903.** — S. 196
-- **Raja von Skardo, drei Brüder und Pfeifenträger.** — S. 197
-- **Daumenabdrücke als Unterschriften der Kulis unter dem Vertrag.** — S. 201
-- **Hofmusiker des Raja von Skardo.** — S. 205
-- **Lager bei Nangma Tapsa, 11.590 Fuß.** — S. 207
-- **Alte Endmoräne, Hoh-Lumba-Gletscher.** — S. 209
-- **Äußerstes Ende der rechten Seitenmoräne, Hoh Lumba.** — S. 211
-- **Randsee, Hoh Lumba.** — S. 212
-- **Schneehügel-Lager, 14.171 Fuß, Hoh Lumba.** — S. 213
-- **Eree-Arm, Hoh Lumba.** — S. 216
-- **Karawane beim Aufstieg über Schneehügel, Hoh Lumba.** — S. 217
-- **Auf dem Hoh-Lumba-Gletscher, drei Meilen unterhalb des Col des Aiguilles.** — S. 219
-- **Camp des Aiguilles, 15.780 Fuß, Hoh Lumba.** — S. 222
-- **Gipfelfächer im Nebel, Hoh Lumba.** — S. 223
-- **Auf dem Col des Aiguilles, 18.331 Fuß, Hoh Lumba.** — S. 225
-- **Bergwand, die den Col des Aiguilles vom Hispar-Gletscher trennt.** — S. 229
-- **Gipfel an der Westseite der Hoh Lumba unterhalb des Col des Aiguilles.** — S. 233
-- **Felsnadeln oberhalb des Camp des Aiguilles, Hoh Lumba.** — S. 235
-- **Lager am Sosbon, 15.991 Fuß.** — S. 239
-- **Petigax und Savoye Col, 17.000 Fuß, am oberen Ende des Sosbon-Gletschers.** — S. 241
-- **Gneisartiger Fels in fünf Bruchstücken im Zentrum des Sosbon-Gletschers.** — S. 243
-- **Felsnadeln gegenüber dem Sosbon-Lager.** — S. 245
+- [Unsere Gesellschaft verläßt Srinagar, 1903.](ch012.xhtml#b196) — S. 196
+- [Raja von Skardo, drei Brüder und Pfeifenträger.](ch012.xhtml#b197) — S. 197
+- [Daumenabdrücke als Unterschriften der Kulis unter dem Vertrag.](ch012.xhtml#b201) — S. 201
+- [Hofmusiker des Raja von Skardo.](ch012.xhtml#b205) — S. 205
+- [Lager bei Nangma Tapsa, 11.590 Fuß.](ch012.xhtml#b207) — S. 207
+- [Alte Endmoräne, Hoh-Lumba-Gletscher.](ch012.xhtml#b209)  — S. 209
+- [Äußerstes Ende der rechten Seitenmoräne, Hoh Lumba.](ch012.xhtml#b211) — S. 211
+- [Randsee, Hoh Lumba.](ch012.xhtml#b212) — S. 212
+- [Snow-Hillock-Lager, 14.171 Fuß, Hoh Lumba.](ch012.xhtml#b213) — S. 213
+- [Eree-Arm, Hoh Lumba.](ch012.xhtml#b216) — S. 216
+- [Karawane beim Aufstieg über Schneehügel, Hoh Lumba.](ch012.xhtml#b217)  — S. 217
+- [Auf dem Hoh-Lumba-Gletscher, drei Meilen unterhalb des Col des Aiguilles.](ch012.xhtml#b219) — S. 219
+- [Camp des Aiguilles, 15.780 Fuß, Hoh Lumba.](ch012.xhtml#b222) — S. 222
+- [Gipfelgruppe im Nebel, Hoh Lumba.](ch012.xhtml#b223)  — S. 223
+- [Auf dem Col des Aiguilles, 18.331 Fuß, Hoh Lumba.](ch012.xhtml#b225) — S. 225
+- [Bergwand, die den Col des Aiguilles vom Hispar-Gletscher trennt.](ch012.xhtml#b229) — S. 229
+- [Gipfel an der Westseite der Hoh Lumba unterhalb des Col des Aiguilles.](ch012.xhtml#b233)  — S. 233
+- [Fels-Aiguilles oberhalb des Camp des Aiguilles, Hoh Lumba.](ch012.xhtml#b235)  — S. 235
+- [Lager am Sosbon, 15.991 Fuß.](ch012.xhtml#b239) — S. 239
+- [Petigax und Savoye Col, 17.000 Fuß, am oberen Ende des Sosbon-Gletschers.](ch012.xhtml#b241) — S. 241
+- [Gneisartiger Fels in fünf Bruchstücken im Zentrum des Sosbon-Gletschers.](ch012.xhtml#b243) — S. 243
+- [Felsnadeln gegenüber dem Sosbon-Lager.](ch012.xhtml#b245) — S. 245
 - **Unsere Gurkhas.** — S. 250
 - **Riffelhorn mit unserem Steinmann auf dem Gipfel; Telephotographie.** — S. 253
 - **Schneebedeckter Eisgendarme nahe dem Riffel-Lager.** — S. 255
