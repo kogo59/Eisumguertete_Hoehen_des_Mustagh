@@ -161,17 +161,17 @@
 - [Petigax und Savoye Col, 17.000 Fuß, am oberen Ende des Sosbon-Gletschers.](ch012.xhtml#b241) — S. 241
 - [Gneisartiger Fels in fünf Bruchstücken im Zentrum des Sosbon-Gletschers.](ch012.xhtml#b243) — S. 243
 - [Felsnadeln gegenüber dem Sosbon-Lager.](ch012.xhtml#b245) — S. 245
-- **Unsere Gurkhas.** — S. 250
-- **Riffelhorn mit unserem Steinmann auf dem Gipfel; Telephotographie.** — S. 253
-- **Schneebedeckter Eisgendarme nahe dem Riffel-Lager.** — S. 255
-- **Auf Schneeschuhen.** — S. 257
-- **Abschnitt des Eisbruches an der Vereinigung des Crevasse-Gletschers mit der Chogo Lungma, die Firnschichtung zeigend.** — S. 258
-- **Aufstieg über den Eisbruch auf der Chogo Lungma.** — S. 259
-- **An einer Haltstelle am oberen Ende des Eisbruches angelangt.** — S. 261
-- **Der nächste Zug.** — S. 263
-- **Lager der höchsten Temperatur, 17.332 Fuß, Crevasse-Gletscher.** — S. 267
-- **Riffelhorn, Nordseite, bestiegen im August 1903.** — S. 271
-- **Aufstieg über den Südgrat des Riffelhorns.** — S. 275
+- [Unsere Gurkhas.](ch013.xhtml#b250) — S. 250
+- [Riffelhorn mit unserem Steinmann auf dem Gipfel; Telephotographie.](ch013.xhtml#b253) — S. 253
+- [Schneebedeckter Eis-Gendarm nahe dem Riffel-Lager.](ch013.xhtml#b255) — S. 255
+- [Auf Schneeschuhen.](ch013.xhtml#b257) — S. 257
+- [Abschnitt des Eisbruches an der Vereinigung des Crevasse-Gletschers mit dem Chogo Lungma, die Firnschichtung zeigend.](ch013.xhtml#b258) — S. 258
+- [Aufstieg über den Eisbruch auf dem Chogo Lungma.](ch013.xhtml#b259) — S. 259
+- [An einem Halt am oberen Ende des Eisbruches angelangt.](ch013.xhtml#b261) — S. 261
+- [Der nächste Zug.](ch013.xhtml#b263) — S. 263
+- [Highest Temperature Camp, 17.332 Fuß, Crevasse-Gletscher.](ch013.xhtml#b267) — S. 267
+- [Riffelhorn, Nordseite, bestiegen im August 1903.](ch013.xhtml#b271) — S. 271
+- [Aufstieg über den Südgrat des Riffelhorns.](ch013.xhtml#b275) — S. 275
 - **Pyramid Peak, 24.500 Fuß, bis zum schwarzen Punkt an der Horizontlinie bestiegen, 12. August 1903; Telephotographie.** — S. 279
 - **Séracs aus schwarzem Eis am Eisbruch des Basin-Gletschers.** — S. 283
 - **Pool-Lager, 16.351 Fuß, Basin-Gletscher.** — S. 285
