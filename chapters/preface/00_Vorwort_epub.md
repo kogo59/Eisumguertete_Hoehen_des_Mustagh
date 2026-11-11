@@ -172,24 +172,24 @@
 - [Highest Temperature Camp, 17.332 Fuß, Crevasse-Gletscher.](ch013.xhtml#b267) — S. 267
 - [Riffelhorn, Nordseite, bestiegen im August 1903.](ch013.xhtml#b271) — S. 271
 - [Aufstieg über den Südgrat des Riffelhorns.](ch013.xhtml#b275) — S. 275
-- **Pyramid Peak, 24.500 Fuß, bis zum schwarzen Punkt an der Horizontlinie bestiegen, 12. August 1903; Telephotographie.** — S. 279
-- **Séracs aus schwarzem Eis am Eisbruch des Basin-Gletschers.** — S. 283
-- **Pool-Lager, 16.351 Fuß, Basin-Gletscher.** — S. 285
-- **Bergschrund in etwa 18.000 Fuß Höhe mit Eiszapfen.** — S. 287
-- **Blick über zwanzig Meilen die Chogo Lungma hinab, vom Zwischenlager in 18.811 Fuß Höhe.** — S. 291
-- **Höchstes Lager, 19.358 Fuß, am Fuße des Kegels des Mount Chogo.** — S. 295
-- **Auf dem Gipfel des Mount Chogo, 21.500 Fuß, um 7 Uhr morgens.** — S. 299
-- **Annäherung an den Gipfel des Mount Lungma.** — S. 300
-- **Gipfel des Mount Chogo, 21.500 Fuß, gesehen aus 22.300 Fuß Höhe am Mount Lungma.** — S. 301
-- **Auf dem Gipfel des Mount Lungma, 22.568 Fuß.** — S. 303
-- **Blick nach Süden nahe dem Gipfel des Mount Lungma über Bergkämme hinweg.** — S. 306
-- **Pyramid Peak, 24.500 Fuß, nahe dem Gipfel des Mount Lungma.** — S. 307
-- **Trio am oberen Ende der Chogo Lungma, Südseite.** — S. 310
-- **Gipfel des Mount Lungma, 22.568 Fuß, gesehen aus 23.394 Fuß Höhe am Pyramid Peak.** — S. 311
-- **Kulis beim Hinabgleiten an der Flanke des Mount Chogo.** — S. 315
-- **Mount Chogo und Mount Lungma vom Basin-Gletscher aus.** — S. 319
-- **Crevasse-Gletscher, oberer Arm der Chogo Lungma.** — S. 323
-- **Indus-Nagar-Wasserscheiden-Gipfel Nr. 2, 24.470 Fuß, Chogo Lungma.** — S. 327
+- [Pyramid Peak, 24.500 Fuß, bis zum schwarzen Punkt an der Horizontlinie bestiegen, 12. August 1903; Telephotographie.](ch014.xhtml#b279) — S. 279
+- [Séracs aus schwarzem Eis am Eisbruch des Basin-Gletschers.](ch014.xhtml#b283) — S. 283
+- [Pool-Camp, 16.351 Fuß, Basin-Gletscher.](ch014.xhtml#b283) — S. 285
+- [Bergschrund in etwa 18.000 Fuß Höhe mit Eiszapfen.](ch014.xhtml#b287) — S. 287
+- [Blick über zwanzig Meilen die Chogo Lungma hinab, vom Zwischenlager in 18.811 Fuß Höhe.](ch014.xhtml#b291) — S. 291
+- [Höchstes Lager, 19.358 Fuß, am Fuße des Kegels des Mount Chogo.](ch014.xhtml#b295) — S. 295
+- [Auf dem Gipfel des Mount Chogo, 21.500 Fuß, um 7 Uhr morgens.](ch014.xhtml#b299) — S. 299
+- [Annäherung an den Gipfel des Mount Lungma.](ch014.xhtml#b300) — S. 300
+- [Gipfel des Mount Chogo, 21.500 Fuß, gesehen aus 22.300 Fuß Höhe am Mount Lungma.](ch014.xhtml#b301) — S. 301
+- [Auf dem Gipfel des Mount Lungma, 22.568 Fuß.](ch014.xhtml#b303) — S. 303
+- [Blick nach Süden von nahe dem Gipfel des Mount Lungma über die höchsten Bergkämme hinweg.](ch014.xhtml#b306) — S. 306
+- [Pyramid Peak, 24.500 Fuß, nahe dem Gipfel des Mount Lungma.](ch014.xhtml#b307) — S. 307
+- [Trio am oberen Ende der Chogo Lungma, Südseite.](ch014.xhtml#b310) — S. 310
+- [Gipfel des Mount Lungma, 22.568 Fuß, gesehen aus 23.394 Fuß Höhe am Pyramid Peak.](ch014.xhtml#b311) — S. 311
+- [Kulis beim Hinabgleiten an der Flanke des Mount Chogo.](ch014.xhtml#b315) — S. 315
+- [Mount Chogo und Mount Lungma vom Basin-Gletscher aus.](ch014.xhtml#b319)  — S. 319
+- [Crevasse-Gletscher, oberer Arm der Chogo Lungma.](ch014.xhtml#b323)  — S. 323
+- [Indus Nagar Watershed Peak No. 2, 24.470 Fuß, Chogo Lungma.](ch014.xhtml#b327) — S. 327
 - **Steinmann am Riffel-Lager, 17.667 Fuß.** — S. 329
 - **Vereinigung des Bolucho-Gletschers mit der Chogo Lungma.** — S. 330
 - **Chogo Lungma und Nebenarm aus der Haramosh-Gruppe.** — S. 331
