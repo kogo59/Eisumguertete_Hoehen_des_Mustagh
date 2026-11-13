@@ -190,15 +190,15 @@
 - [Mount Chogo und Mount Lungma vom Basin-Gletscher aus.](ch014.xhtml#b319)  — S. 319
 - [Crevasse-Gletscher, oberer Arm der Chogo Lungma.](ch014.xhtml#b323)  — S. 323
 - [Indus Nagar Watershed Peak No. 2, 24.470 Fuß, Chogo Lungma.](ch014.xhtml#b327) — S. 327
-- **Steinmann am Riffel-Lager, 17.667 Fuß.** — S. 329
-- **Vereinigung des Bolucho-Gletschers mit der Chogo Lungma.** — S. 330
-- **Chogo Lungma und Nebenarm aus der Haramosh-Gruppe.** — S. 331
-- **Blick auf die untersten zwei Meilen des Bolucho-Gletschers und seine Vereinigung mit der Chogo Lungma vom Rivulet-Lager.** — S. 333
-- **Aufstieg zum Bolucho Col, 7 Uhr morgens.** — S. 337
-- **Auf dem Bolucho Col, 17.021 Fuß.** — S. 340
-- **Rast beim Aufstieg zum Bolucho Col.** — S. 341
-- **Panorama der Westseite des Bolucho-Gletschers vom Fuße des Bolucho Col.** — S. 345
-- **Unser Livestock auf dem Bolucho Col, 17.021 Fuß.** — S. 349
+- [Steinmann am Riffel-Camp, 17.667 Fuß.](ch015.xhtml#b329) — S. 329
+- [Vereinigung des Bolucho-Gletschers mit dem Chogo Lungma.](ch015.xhtml#b330) — S. 330
+- [Chogo Lungma und Nebenarm aus der Haramosh-Gruppe.](ch015.xhtml#b331)  — S. 331
+- [Blick auf die untersten zwei Meilen des Bolucho-Gletschers und seine Vereinigung mit der Chogo Lungma vom Rivulet-Lager.](ch015.xhtml#b333) — S. 333
+- [Aufstieg zum Bolucho Col, 7 Uhr morgens.](ch015.xhtml#b337) — S. 337
+- [Auf dem Bolucho Col, 17.021 Fuß.](ch015.xhtml#b340) — S. 340
+- [Rast beim Aufstieg zum Bolucho Col.](ch015.xhtml#b341) — S. 341
+- [Panorama der Westseite des Bolucho-Gletschers vom Fuße des Bolucho Col.](ch015.xhtml#b345) — S. 345
+- [Unser Viehbestand auf dem Bolucho Col, 17.021 Fuß.](ch015.xhtml#b349) — S. 349
 - **Gerippter Gipfel auf Kero Lungma gegenüber der Vereinigung des Alchori-Gletschers; Telephotographie.** — S. 353
 - **Felsnadel an der Südseite des Alchori-Gletschers; Telephotographie.** — S. 355
 - **Hohe Moräne an der Vereinigung des Alchori- und Hoh-Lumba-Gletschers, mit Zelt.** — S. 358
