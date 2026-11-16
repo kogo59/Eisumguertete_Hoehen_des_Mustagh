@@ -199,27 +199,27 @@
 - [Rast beim Aufstieg zum Bolucho Col.](ch015.xhtml#b341) — S. 341
 - [Panorama der Westseite des Bolucho-Gletschers vom Fuße des Bolucho Col.](ch015.xhtml#b345) — S. 345
 - [Unser Viehbestand auf dem Bolucho Col, 17.021 Fuß.](ch015.xhtml#b349) — S. 349
-- **Gerippter Gipfel auf Kero Lungma gegenüber der Vereinigung des Alchori-Gletschers; Telephotographie.** — S. 353
-- **Felsnadel an der Südseite des Alchori-Gletschers; Telephotographie.** — S. 355
-- **Hohe Moräne an der Vereinigung des Alchori- und Hoh-Lumba-Gletschers, mit Zelt.** — S. 358
-- **Gipfel an der Südseite des Alchori-Gletschers; Telephotographie.** — S. 359
-- **Nordarm des Alchori-Gletschers.** — S. 363
-- **Nordwestarm des Alchori-Gletschers.** — S. 365
-- **Oberes Ende des Alchori-Gletschers.** — S. 367
-- **Eisrinne am oberen Ende des Alchori-Gletschers, bestiegen.** — S. 371
-- **Eisbruch-Lager, 17.002 Fuß, am oberen Ende des Alchori-Gletschers.** — S. 373
-- **Auf dem Alchori Col, 17.622 Fuß, um 6.30 Uhr morgens.** — S. 375
-- **Gletscher, der sich mit dem Hispar vereinigt.** — S. 376
-- **Blick vom Eisbruch-Lager den Alchori-Gletscher hinab.** — S. 377
-- **Zweiter Bear-Camp, 14.283 Fuß, auf der Mittelmoräne des Alchori-Gletschers.** — S. 379
-- **Blick das Kero Nala hinab über die Zunge der Chogo Lungma.** — S. 381
-- **Wazir von Katsura.** — S. 382
-- **Annäherung an den Bannok La.** — S. 383
-- **Gipfel des Nanga Parbat, 26.620 Fuß; Telephotographie vom Bannok La, fünfundzwanzig Meilen westlich.** — S. 385
-- **Blick westwärts das Harpo Nala hinab gegen den Nanga Parbat.** — S. 387
-- **Dorf Astor.** — S. 389
-- **Der Barbier von Astor.** — S. 392
-- **Die Führer der Expedition.** — S. 393
+- [Gerippter Gipfel auf Kero Lungma gegenüber der Vereinigung des Alchori-Gletschers; Telephotographie.](ch016.xhtml#b353) — S. 353
+- [Felsnadel an der Südseite des Alchori-Gletschers; Telephotographie.](ch016.xhtml#b355) — S. 355
+- [Hohe Moräne an der Vereinigung des Alchori- und Hoh-Lumba-Gletschers, mit Zelt.](ch016.xhtml#b358) — S. 358
+- [Gipfel an der Südseite des Alchori-Gletschers; Telephotographie.](ch016.xhtml#b359) — S. 359
+- [Nordarm des Alchori-Gletschers.](ch016.xhtml#b363) — S. 363
+- [Nordwestarm des Alchori-Gletschers.](ch016.xhtml#b365) — S. 365
+- [Oberes Ende des Alchori-Gletschers.](ch016.xhtml#b367) — S. 367
+- [Eisrinne am oberen Ende des Alchori-Gletschers, bestiegen.](ch016.xhtml#b371) — S. 371
+- [Eisbruch-Lager, 17.002 Fuß, am oberen Ende des Alchori-Gletschers.](ch016.xhtml#b373) — S. 373
+- [Auf dem Alchori Col, 17.622 Fuß, um 6.30 Uhr morgens.](ch016.xhtml#b375) — S. 375
+- [Gletscher, der sich mit dem Hispar vereinigt.](ch016.xhtml#b376) — S. 376
+- [Blick vom Eisbruch-Lager den Alchori-Gletscher hinab.](ch016.xhtml#b377) — S. 377
+- [Zweites Bärenlager, 14.283 Fuß, auf der Mittelmoräne des Alchori-Gletschers.](ch016.xhtml#b379) — S. 379
+- [Blick das Kero Nala hinab über die Zunge der Chogo Lungma.](ch016.xhtml#b381) — S. 381
+- [Wazir von Katsura.](ch016.xhtml#b382)  — S. 382
+- [Annäherung an den Bannok La.](ch016.xhtml#b383) — S. 383
+- [Gipfel des Nanga Parbat, 26.620 Fuß; Telephotographie vom Bannok La, fünfundzwanzig Meilen westlich.](ch016.xhtml#b385) — S. 385
+- [Blick westwärts das Harpo Nala hinab gegen den Nanga Parbat.](ch016.xhtml#b387) — S. 387
+- [Dorf Astor.](ch016.xhtml#b389) — S. 389
+- [Der Barbier von Astor.](ch016.xhtml#b392) — S. 392
+- [Die Leiter der Expedition.](ch016.xhtml#b393) — S. 393
 - **Oberes Ende des Basin-Gletschers von der Flanke des Mount Chogo.** — S. 397
 - **Balti-Instrumentenkuli vor einem mit purpurfarbenen Astern bedeckten Hang.** — S. 401
 - **Kulis beim Abstieg an einem Sérac.** — S. 405
