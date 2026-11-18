@@ -220,9 +220,9 @@
 - [Dorf Astor.](ch016.xhtml#b389) — S. 389
 - [Der Barbier von Astor.](ch016.xhtml#b392) — S. 392
 - [Die Leiter der Expedition.](ch016.xhtml#b393) — S. 393
-- **Oberes Ende des Basin-Gletschers von der Flanke des Mount Chogo.** — S. 397
-- **Balti-Instrumentenkuli vor einem mit purpurfarbenen Astern bedeckten Hang.** — S. 401
-- **Kulis beim Abstieg an einem Sérac.** — S. 405
+- [Oberes Ende des Basin-Gletschers von der Flanke des Mount Chogo.](ch017.xhtml#b397) — S. 397
+- [Balti-Instrumentenkuli vor einem mit purpurfarbenen Astern bedeckten Hang.](ch017.xhtml#b401) — S. 401
+- [Kulis beim Abstieg an einem Sérac.](ch017.xhtml#b405) — S. 405
 - **Gipfel auf Kero Lungma gegenüber dem Alchori-Gletscher; Telephotographie.** — S. 411
 - **Mount Koser Gunge, Shigar-Tal, 21.000 Fuß.** — S. 415
 
