@@ -73,7 +73,7 @@
 - [Dr. W. Hunter Workman mit Shigar-Pony.](ch005.xhtml#b031) — S. 32
 - [Lager bei Mango, Shigar-Tal.](ch005.xhtml#b033) — S. 33
 - [Auf dem Gipfel des Mount Buspar, 14.974 Fuß.](ch005.xhtml#b035) — S. 35
-- [Überquerung des Braldoh-Flusses auf einem Zak.](ch005.xhtml#b036) — gegenüber S. 36
+- [Überquerung des Braldoh-Flusses auf einem Zak.](ch006.xhtml#b036) — gegenüber S. 36
 - [Unser Bearer und Khansamah.](ch006.xhtml#b039) — S. 39
 - [Hirsefeld, Basha-Tal.](ch006.xhtml#b040) — S. 40
 - [Dorf Doko, Basha-Tal.](ch006.xhtml#b041) — S. 41
@@ -85,7 +85,7 @@
 - [Obere Schneefelder in Richtung Ganchen.](ch006.xhtml#b055) — S. 55
 - [Gipfel des Mount Hikmul in Wolken.](ch006.xhtml#b059)  — S. 59
 - [Mount Rachel, 17.600 Fuß; Telephotographie aus Arandu, zwölf Meilen entfernt.](ch006.xhtml#b063) — S. 63
-- [Auf dem Gipfel des Mount Rachel, 17.600 Fuß, Basha-Tal.](ch006.xhtml#b065) — S. 65
+- [Auf dem Gipfel des Mount Rachel, 17.600 Fuß, Basha-Tal.](ch006.xhtml#b064) — S. 65
 - [Lambardar von Arandu mit seiner Frau.](ch007.xhtml#b067) — S. 67
 - [Frauen von Arandu.](ch007.xhtml#b071) — S. 71
 - [Frauen von Arandu, Rückansicht.](ch007.xhtml#b073) — S. 73
@@ -108,10 +108,10 @@
 - [Sérac-Lager, 15.096 Fuß, nach einem sechzigstündigen Sturm.](ch008.xhtml#b115) — S. 115
 - [Aufklaren des Sturmes am Sérac-Lager.](ch008.xhtml#b117) — S. 117
 - [Haramosh-Gletscher vom Riffel-Lager bis zum Mount Haramosh am oberen Ende; Länge elf Meilen.](ch009.xhtml#b119) — S. 119
-- [An einer Sérac-Wand entlang.](ch010.xhtml#b122) — S. 122
+- [An einer Sérac-Wand entlang.](ch009.xhtml#b122) — S. 122
 - [Zweiter Haramosh-Gipfel, 21.930 Fuß, nahe dem oberen Ende des Haramosh-Gletschers.](ch009.xhtml#b122)  — S. 123
 - [Über 20.000 Fuß hohe Wand am Zusammenfluß der Haramosh- und Chogo-Lungma-Gletscher.](ch009.xhtml#b127) — S. 127
-- [Nebenarm des Haramosh-Gletschers.](ch010.xhtml#b130) — S. 130
+- [Nebenarm des Haramosh-Gletschers.](ch009.xhtml#b130) — S. 130
 - [Mount Haramosh, Nordwand, 24.270 Fuß, und die oberen fünf Meilen des Haramosh-Gletschers; Telephotographie.](ch009.xhtml#b131) — S. 131
 - [Auf dem Haramosh La, 17.412 Fuß.](ch009.xhtml#b134) — S. 134
 - [Eisbruch, über den der Basin-Gletscher zum Chogo Lungma hinabzieht.](ch010.xhtml#b139) — S. 139
@@ -223,8 +223,8 @@
 - [Oberes Ende des Basin-Gletschers von der Flanke des Mount Chogo.](ch017.xhtml#b397) — S. 397
 - [Balti-Instrumentenkuli vor einem mit purpurfarbenen Astern bedeckten Hang.](ch017.xhtml#b401) — S. 401
 - [Kulis beim Abstieg an einem Sérac.](ch017.xhtml#b405) — S. 405
-- **Gipfel auf Kero Lungma gegenüber dem Alchori-Gletscher; Telephotographie.** — S. 411
-- **Mount Koser Gunge, Shigar-Tal, 21.000 Fuß.** — S. 415
+- [Gipfel auf Kero Lungma gegenüber dem Alchori-Gletscher; Telephotographie.](ch018.xhtml#b411)  — S. 411
+- [Mount Koser Gunge, Shigar-Tal, 21.000 Fuß.](ch018.xhtml#b415) — S. 415
 
 *Alle Abbildungen beruhen auf Photographien, die von den Verfassern aufgenommen wurden.*
 
@@ -235,11 +235,4 @@ erforschten Gebietes beruht auf einer Theodolitaufnahme von Mr. B. H. M. Hewett
 und wurde von den Verfassern anhand eigener Beobachtungen und Photographien
 berichtigt und ergänzt.
 
-:::: {.w-100 .break-before }
-![&nbsp;](Mustagh_999.jpg ""){#b999}
-::::
-
-:::: {.w-100 .break-before  }
-![&nbsp;](Mustagh_998.jpg ""){#b998}
-::::
 
